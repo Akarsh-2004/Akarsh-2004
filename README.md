@@ -1,20 +1,22 @@
 <!-- README.md for Akarsh-2004 -->
 
 <h1 align="center">Hi 👋, I'm Akarsh Saklani</h1>
-<h3 align="center">AI x Cybersecurity | Threat Detection | ML-AI Systems | Web Development </h3>
+<h3 align="center">Fullstack Developer | AI x Cybersecurity | ML Systems | Web Engineering</h3>
 
 ---
 
 🚀 **About Me**
 
-I'm a final-year Computer Science student from Dehradun, India 🇮🇳, building intelligent systems that defend, detect, and decode cyber threats using AI and ML. I love solving hard security problems — from phishing detection and malware analysis to real-time intrusion prevention.
+I'm a final-year Computer Science student from Dehradun, India 🇮🇳, passionate about building intelligent, secure, and scalable applications — across the stack.
 
-I specialize in backend engineering, threat intelligence, compiler internals, and deploying secure, scalable APIs.
+From crafting modern web frontends in React to deploying FastAPI backends and training deep learning models for security and threat detection — I enjoy solving problems at every layer of the system.
+
+Currently building: **ReconGPT**, a fullstack threat intelligence engine that combines OSINT, phishing classification, DNS analysis, and LLM-based summarization.
 
 🧠 **Key Interests**
-- Adversarial ML, LLMs, and Threat Attribution
-- Red teaming, anomaly detection, malware classification
-- Building infra-sec tools that actually scale
+- Fullstack Web Apps (React + FastAPI)
+- AI/ML for Cybersecurity: NER, Malware, Threat Intel
+- Adversarial ML, Custom Transformers, Red Teaming
 
 📫 **Connect With Me**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarsh-saklani-466971285/)
@@ -30,16 +32,22 @@ I specialize in backend engineering, threat intelligence, compiler internals, an
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**ML & Deep Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-E34A6F?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-0055A2?style=flat&logo=huggingface&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Backend & APIs**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**ML & Deep Learning**  
+![PyTorch](https://img.shields.io/badge/PyTorch-E34A6F?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-0055A2?style=flat&logo=huggingface&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 **Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
@@ -76,19 +84,19 @@ I specialize in backend engineering, threat intelligence, compiler internals, an
 
 📌 **Highlighted Projects**
 
-- 🔍 [ReconGPT](https://github.com/Akarsh-2004/ReconGPT) — AI threat intelligence engine with IOC NER, phishing & DNS analysis  
-- 🧠 [AI-IDS](https://github.com/Akarsh-2004/AI-IDS) — Real-time Intrusion Detection System using syscall monitoring + ML backend  
-- 🧾 [Custom LLM](https://github.com/Akarsh-2004/customLLM) — Transformer from scratch with beam search + production API  
-- 🔎 [Web Vulnerability Scanner](https://github.com/Akarsh-2004/web-app-vulnerability-assesment) — Async OWASP Top 10 detection with reports  
-- 📷 [QR/Barcode Classifier](https://github.com/Akarsh-2004/QR-and-barcode-classifier-and-scanner) — Fast real-time inference system  
+- 🔍 [ReconGPT](https://github.com/Akarsh-2004/ReconGPT) — Fullstack AI threat intelligence engine with NER, phishing, DNS & LLM  
+- 🧠 [AI-IDS](https://github.com/Akarsh-2004/AI-IDS) — Real-time Intrusion Detection System with syscall stream + ML backend  
+- 🧾 [Custom LLM](https://github.com/Akarsh-2004/customLLM) — Transformer from scratch with decoding and production API  
+- 🔎 [Web Vulnerability Scanner](https://github.com/Akarsh-2004/web-app-vulnerability-assesment) — Async OWASP Top 10 detection + report engine  
+- 📷 [QR/Barcode Classifier](https://github.com/Akarsh-2004/QR-and-barcode-classifier-and-scanner) — Lightweight, fast inference API in containers  
 
 ---
 
 🎖 **Notable Achievements**
-- 🏅 Ranked Top 5 Nationwide in CTF
-- 💡 Built ML malware classifier from binary-to-image pipeline with 93% accuracy
-- 🥇 Gold – Zonal IGKO | 🥈 Silver – Int’l Math Olympiad
-- 👨‍💻 Solved 650+ DSA problems (LeetCode, GfG, Codeforces)
+- 🏅 Ranked Top 5 Nationwide in Cyber CTF  
+- 🔐 cipher classifier from binaries-to-images with CNN (93% acc)  
+- 🥇 Gold – Zonal IGKO | 🥈 Silver – Int’l Math Olympiad  
+- 👨‍💻 Solved 650+ DSA problems (LeetCode)  
 
 ---
 
