@@ -1,7 +1,7 @@
 <!-- README.md for Akarsh-2004 -->
 
 <h1 align="center">Hi 👋, I'm Akarsh Saklani</h1>
-<h3 align="center">AI x Cybersecurity | Threat Detection | ML Systems | OSS Contributor</h3>
+<h3 align="center">AI x Cybersecurity | Threat Detection | ML-AI Systems | Web Development </h3>
 
 ---
 
