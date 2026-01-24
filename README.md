@@ -1,7 +1,7 @@
 <!-- README.md for Akarsh-2004 -->
 
 <h1 align="center">Hi 👋, I'm Akarsh Saklani</h1>
-<h3 align="center">Fullstack Developer | AI x Cybersecurity | ML Systems | Web Engineering</h3>
+<h3 align="center">Fullstack Developer | AI ML Systems | Web Engineering | Red Teaming</h3>
 
 ---
 
