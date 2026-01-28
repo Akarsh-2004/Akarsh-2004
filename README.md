@@ -64,6 +64,9 @@ Currently building: **ReconGPT**, a fullstack threat intelligence engine that co
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat&logo=OWASP&logoColor=white)
 
 ---
+<img width="2560" height="1118" alt="image" src="https://github.com/user-attachments/assets/b3ee2be3-6714-4ba0-85e5-6bfb42e14f4d" />
+
+<img width="3072" height="1404" alt="github-timeline-Akarsh-2004-1769612601450" src="https://github.com/user-attachments/assets/6af6acfe-edc1-4245-8dc3-4768716c8d28" />
 
 📈 **GitHub Stats**
 
