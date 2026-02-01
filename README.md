@@ -76,12 +76,6 @@ Currently building: **ReconGPT**, a fullstack threat intelligence engine that co
 </p>
 ---
 
-🌱 **Contribution Graph**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akarsh-2004&theme=react-dark&area=true&hide_border=true" width="90%" />
-</p>
-
 ---
 
 📌 **Highlighted Projects**
