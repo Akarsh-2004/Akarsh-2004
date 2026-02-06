@@ -77,6 +77,12 @@ Currently building: **ReconGPT**, a fullstack threat intelligence engine that co
 ---
 
 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akarsh-2004&theme=react-dark&area=true&hide_border=true" width="90%" />
+</p>
+
+
 📌 **Highlighted Projects**
 
 - 🔍 [ReconGPT](https://github.com/Akarsh-2004/ReconGPT) — Fullstack AI threat intelligence engine with NER, phishing, DNS & LLM  
