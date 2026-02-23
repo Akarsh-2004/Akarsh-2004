@@ -97,7 +97,7 @@ Currently building: **ReconGPT**, a fullstack threat intelligence engine that co
 - 🏅 Ranked Top 5 Nationwide in Cyber CTF  
 - 🔐 cipher classifier from binaries-to-images with CNN (93% acc)  
 - 🥇 Gold – Zonal IGKO | 🥈 Silver – Int’l Math Olympiad  
-- 👨‍💻 Solved 800+ DSA problems (LeetCode)  
+- 👨‍💻 Solved 850+ DSA problems (LeetCode)  
 
 ---
 
