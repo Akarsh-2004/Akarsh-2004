@@ -7,7 +7,7 @@
 
 🚀 **About Me**
 
-I'm a final-year Computer Science student from Dehradun, India 🇮🇳, passionate about building intelligent, secure, and scalable applications — across the stack.
+I'm from Dehradun, India 🇮🇳, passionate about building intelligent, secure, and scalable applications — across the stack.
 
 From crafting modern web frontends in React to deploying FastAPI backends and training deep learning models for security and threat detection — I enjoy solving problems at every layer of the system.
 
