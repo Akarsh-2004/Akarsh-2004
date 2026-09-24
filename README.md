@@ -1,104 +1,205 @@
-<!-- README.md for Akarsh-2004 -->
+<h1 align="center">Hi, I'm Akarsh Saklani 👋</h1>
 
-<h1 align="center">Hi , I'm Akarsh Saklani</h1>
-<h3 align="center"> AI ML Systems | Web Engineering | Red Teaming</h3>
-
----
-
-🚀 **About Me**
-
-I'm from Dehradun, India 🇮🇳, passionate about building intelligent, secure, and scalable applications — across the stack.
-
-From crafting modern web frontends in React to deploying FastAPI backends and training deep learning models for security and threat detection — I enjoy solving problems at every layer of the system.
-
-Currently building: **ReconGPT**, a fullstack threat intelligence engine that combines OSINT, phishing classification, DNS analysis, and LLM-based summarization.
-
-🧠 **Key Interests**
-- Fullstack Web Apps (React + FastAPI)
-- AI/ML for Cybersecurity: NER, Malware, Threat Intel
-- Adversarial ML, Custom Transformers, Red Teaming
-
-📫 **Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarsh-saklani-466971285/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akarshsaklani222@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://portfolioakarshsaklani.netlify.app)
-
----
-
-🛠 **Tech Toolbox**
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Backend & APIs**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**ML & Deep Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-E34A6F?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-0055A2?style=flat&logo=huggingface&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-**Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Tools**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-**Cybersecurity**  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-222222?style=flat&logo=metasploit&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat&logo=OWASP&logoColor=white)
-
----
-<img width="2560" height="1118" alt="image" src="https://github.com/user-attachments/assets/b3ee2be3-6714-4ba0-85e5-6bfb42e14f4d" />
-
-<img width="3072" height="1404" alt="github-timeline-Akarsh-2004-1769612601450" src="https://github.com/user-attachments/assets/6af6acfe-edc1-4245-8dc3-4768716c8d28" />
-
-📈 **GitHub Stats**
+<h3 align="center">Machine Learning Engineer · AI Systems · ML Inference · MLOps · LLM Engineering</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akarsh-2004&show_icons=true&theme=radical" alt="Akarsh's GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akarsh-2004&theme=radical" alt="Akarsh's GitHub Streak" width="45%" />
+  <a href="https://www.linkedin.com/in/akarsh-saklani-466971285/">LinkedIn</a> ·
+  <a href="https://portfolioakarshsaklani.netlify.app">Portfolio</a> ·
+  <a href="mailto:akarshsaklani222@gmail.com">Email</a>
 </p>
+
 ---
 
+## 🚀 About Me
 
+I'm a **Machine Learning Engineer from India** focused on building and optimizing production AI/ML systems.
+
+I work across the stack — from **model training and inference optimization** to **FastAPI services, cloud deployment, MLOps, and AI infrastructure**.
+
+My recent work includes reducing transformer/LLM inference latency from **5s → 300ms**, building GPU-accelerated computer vision pipelines, developing evaluation infrastructure, and contributing to open-source AI/ML tooling.
+
+Currently exploring **LLM systems, RAG, agentic workflows, MCP, inference optimization, and AI infrastructure**.
+
+### 🔭 Currently Building
+
+**ReconGPT** — an AI-powered threat intelligence platform combining:
+
+* Phishing classification
+* NER & entity extraction
+* OSINT / threat intelligence
+* STIX/TAXII feeds
+* MITRE ATT&CK integration
+* LLM-based analysis
+* Automated security workflows
+
+---
+
+## 🧠 What I Work On
+
+* **ML Inference & Optimization**
+* **LLM / Transformer Systems**
+* **MLOps & Model Deployment**
+* **Computer Vision**
+* **RAG & Vector Search**
+* **AI Infrastructure**
+* **FastAPI & ML Backend Systems**
+* **MCP / AI Agent Infrastructure**
+* **Open Source AI/ML Engineering**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=postgresql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+
+### ML / AI
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat\&logo=huggingface\&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFCC4D?style=flat\&logo=huggingface\&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat\&logo=opencv\&logoColor=white)
+
+### AI Systems / Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazon-aws\&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat\&logo=databricks\&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat\&logo=nvidia\&logoColor=white)
+
+### AI Infrastructure
+
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-111111?style=flat)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat\&logo=opentelemetry\&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat\&logo=prometheus\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat\&logo=github-actions\&logoColor=white)
+
+---
+
+## ⚡ Featured Work
+
+### 🔥 ReconGPT
+
+AI-powered threat intelligence and security analysis platform.
+
+**Focus:** Transformers · NLP · Threat Intelligence · FastAPI · LLMs
+
+* Fine-tuned DistilBERT for phishing classification
+* Built BERT-based NER + entity extraction
+* STIX/TAXII ingestion
+* MITRE ATT&CK integration
+* AI model security scanning
+* Multi-tenant architecture
+* Slack / Teams alerting
+
+---
+
+### 🎾 Krateasy Vision
+
+Computer vision pipeline for real-time padel analysis.
+
+**Focus:** Computer Vision · CUDA · PyTorch · YOLO · FastAPI
+
+* GPU-accelerated player and ball tracking
+* Pose estimation
+* Stroke classification
+* Multi-stage CV inference pipeline
+* FastAPI job orchestration
+* Real-time processing and progress tracking
+
+---
+
+### ⚡ ML Inference Optimization
+
+Production transformer/LLM workloads serving **700+ users**.
+
+**5s → 300ms latency**
+
+Worked on:
+
+* Dynamic batching
+* Async orchestration
+* Schema caching
+* Model serving
+* Throughput benchmarking
+* Deployment-level optimization
+
+---
+
+## 🌐 Open Source
+
+I actively contribute to AI/ML infrastructure and developer tooling.
+
+### MCP Gateway & Registry
+
+**PR #1232 — Merged**
+
+* Fixed stale vector-index embeddings after entity deletion
+* Added cleanup/admin APIs
+* Added Prometheus monitoring
+* Added unit test coverage
+
+### Kagura Memory Python SDK
+
+**PR #164 / #166 — Merged**
+
+* Added `kagura doctor` CLI diagnostics
+* Authentication and OAuth checks
+* MCP server reachability checks
+* LLM provider validation
+* Structured JSON output
+* CI-friendly exit codes
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akarsh-2004&theme=react-dark&area=true&hide_border=true" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akarsh-2004&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akarsh-2004&theme=github-dark-blue&hide_border=true" width="48%" />
 </p>
 
-
-📌 **Highlighted Projects**
-
-- 🔍 [ReconGPT](https://github.com/Akarsh-2004/ReconGPT) — Fullstack AI threat intelligence engine with NER, phishing, DNS & LLM  
-- 🧠 [AI-IDS](https://github.com/Akarsh-2004/AI-IDS) — Real-time Intrusion Detection System with syscall stream + ML backend  
-- 🧾 [Custom LLM](https://github.com/Akarsh-2004/customLLM) — Transformer from scratch with decoding and production API  
-- 🔎 [Web Vulnerability Scanner](https://github.com/Akarsh-2004/web-app-vulnerability-assesment) — Async OWASP Top 10 detection + report engine  
-- 📷 [QR/Barcode Classifier](https://github.com/Akarsh-2004/QR-and-barcode-classifier-and-scanner) — Lightweight, fast inference API in containers  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akarsh-2004&theme=github-compact&hide_border=true" width="95%" />
+</p>
 
 ---
 
-🎖 **Notable Achievements**
-- 🏅 Ranked Top 5 Nationwide in Cyber CTF  
-- 🔐 cipher classifier from binaries-to-images with CNN (93% acc)  
-- 🥇 Gold – Zonal IGKO | 🥈 Silver – Int’l Math Olympiad  
-- 👨‍💻 Solved 850+ DSA problems (LeetCode)  
+## 📌 Areas I'm Exploring
+
+```text
+LLM Systems          ████████████████████
+ML Inference         ████████████████████
+AI Infrastructure    ███████████████████░
+MLOps                ██████████████████░░
+Computer Vision      █████████████████░░░
+RAG / Agents         ████████████████░░░░
+MCP Infrastructure   ███████████████░░░░░
+Cybersecurity AI     ██████████████░░░░░░
+```
 
 ---
 
-Thanks for visiting my profile! Let’s build something impactful together 🤝
+## 📫 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akarsh-saklani-466971285/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://portfolioakarshsaklani.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="mailto:akarshsaklani222@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Building AI systems that are faster, scalable, and useful.</i>
+</p>
