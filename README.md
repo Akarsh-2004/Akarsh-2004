@@ -171,18 +171,6 @@ I actively contribute to AI/ML infrastructure and developer tooling.
 
 ---
 
-## 📌 Areas I'm Exploring
-
-```text
-LLM Systems          ████████████████████
-ML Inference         ████████████████████
-AI Infrastructure    ███████████████████░
-MLOps                ██████████████████░░
-Computer Vision      █████████████████░░░
-RAG / Agents         ████████████████░░░░
-MCP Infrastructure   ███████████████░░░░░
-Cybersecurity AI     ██████████████░░░░░░
-```
 
 ---
 
